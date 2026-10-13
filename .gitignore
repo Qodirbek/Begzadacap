@@ -1,0 +1,7 @@
+cat > .gitignore << 'EOF'
+.env
+.env.*
+!.env.exampl
+*.log
+EOF
+Cap-sanmabrov.env.txt
